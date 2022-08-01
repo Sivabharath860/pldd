@@ -1,0 +1,17 @@
+.blog-gr {
+    background: url(src/assets/images/bs2.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 431px;
+}
+.blog-fore{
+    background: url(src/assets/images/bs3.jpg) no-repeat 0px 0px;
+	}
+.blog-three{
+    background: url(src/assets/images/bb3.jpg) no-repeat 0px 0px;
+	}
+	.blog-br{
+    background: url(src/assets/images/h2.jpg) no-repeat 0px 0px;
+	}
+ .blog-three,.blog-fore,.blog-br{   background-size: cover;
+    min-height: 466px;
+}
